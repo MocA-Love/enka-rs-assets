@@ -1,5 +1,5 @@
 [project]
-name = "enka-prs-assets"
+name = "enka-rs-assets"
 version = "0.1.0"
 description = "A repo that generates and stores the assets for enka-rs"
 readme = "README.md"
